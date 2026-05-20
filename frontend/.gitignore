@@ -33,3 +33,8 @@ frontend/dist/
 
 # Open .gitignore and make sure this line is in it
 echo ".env" >> .gitignore
+
+
+.env
+*/.env
+**/.env
